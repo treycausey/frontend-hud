@@ -1,6 +1,6 @@
 # frontend-hud
 
-A Claude Code skill that generates a dev-mode diagnostic overlay (HUD) for frontend projects. It detects your framework and build tool, then scaffolds a component, build plugin, and layout injection -- all guarded so nothing ships to production.
+A skill for [Claude Code](https://docs.anthropic.com/en/docs/claude-code) and [Codex](https://openai.com/index/introducing-codex/) that generates a dev-mode diagnostic overlay (HUD) for frontend projects. It detects your framework and build tool, then scaffolds a component, build plugin, and layout injection -- all guarded so nothing ships to production.
 
 ## Supported Frameworks
 
